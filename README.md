@@ -15,7 +15,7 @@ Join our community discord server [here](https://discord.com/invite/WSePvFt37D).
 Raise an issue to request an [invitation to the Spyder Community GitHub Organization](https://github.com/Spyder-Community/support/issues/new?assignees=Priyanshumundra&labels=invitation&template=invitation.yml&title=Looking+forward+to+get+involved+and+contribute+to+the+community+%F0%9F%8E%89).
 
 ## ✔️ Code Of Conduct
-Read the code of conduct carefully [here](https://github.com/Spyder-Community/Welcome/blob/main/CODE_OF_CONDUCT.md.
+Read the code of conduct carefully [here](https://github.com/Spyder-Community/Welcome/blob/main/CODE_OF_CONDUCT.md)
 
 ## #️⃣ Community Official Hashtag
 `#SpyderCommunity`
